@@ -18,5 +18,3 @@ All the data has been scraped from the hltv.org website :
 
 "Welcome to the leading CS:GO site in the world, featuring news, demos, pictures, 
 statistics, on-site coverage and much much more!"
-
-**I will not release the scraper code or the database.**
